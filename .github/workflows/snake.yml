@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Use the latest version
 
       - name: Generate snake eating contribution graph
         uses: Platane/snk@v3
@@ -20,6 +20,7 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9  # Optional: Include this line for GIF
 
       - name: Commit and push changes
         run: |
@@ -28,12 +29,12 @@ jobs:
           
           mkdir -p output  # Ensure the output directory exists
 
-          git add output/*
+          git add output/*  # Add all files in the output directory
           if [ "$(git diff --cached --name-only)" ]; then
             git commit -m "Update contribution graph"
-            git push origin main  # Push changes to main branch
+            git push origin main  # Ensure this matches your default branch
           else
             echo "No changes to commit"
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token for authentication
