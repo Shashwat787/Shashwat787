@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Animated GIF" width="200"/>
+  <img src="https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif" alt="Animated GIF" width="600"/>
 </div>
 
 <h1 align="center">
