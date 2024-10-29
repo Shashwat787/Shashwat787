@@ -34,7 +34,7 @@ I’m a B.Tech student in Computer Science Engineering, aspiring to be a Full-St
 
 ---
 
-<h2 align="center">⌛ My Contributions ⏳</h2>
+<h2 align="left">⌛ My Contributions ⏳</h2>
 
 <p align="center">
   <picture>
