@@ -26,10 +26,10 @@ I’m a B.Tech student in Computer Science Engineering, aspiring to be a Full-St
 
 <h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" alt="Animated GIF" width="25"/> Socials</h2>
 <p align="center">
-<a href="https://x.com/notShashwat_18?t=Q8yzEsaRJeG7O10MZK1rDw&s=08" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/light/twitter-x.svg" alt="shashwat prakash" height="30" width="30" /></a>
-<a href="https://shorturl.at/UD0e1" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/colored/linkedin.svg" alt="shashwat prakash" height="30" width="30" /></a>
+<a href="https://x.com/notShashwat_18?t=Q8yzEsaRJeG7O10MZK1rDw&s=08" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/light/twitter-x.svg" alt="shashwat prakash" height="30" width="40" /></a>
+<a href="https://shorturl.at/UD0e1" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/colored/linkedin.svg" alt="shashwat prakash" height="30" width="40" /></a>
 <a href="mailto:shashwatprakasha@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1563eb57-2afb-4d01-a7d2-c359da7d9661" alt="shashwat prakash" height="30" width="30" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/colored/discord.svg" alt="shashwat prakash" height="30" width="30" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/colored/discord.svg" alt="shashwat prakash" height="30" width="40" /></a>
 </p>
 
 ---
