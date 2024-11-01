@@ -39,7 +39,7 @@ I’m a B.Tech student in Computer Science Engineering, aspiring to be a Full-St
   <a href="https://github.com/anuraghazra/readme-components">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashwat787&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space between the two cards -->
+  &nbsp;&nbsp;&nbsp; 
   <a href="https://github.com/MrKrishnaAgarwal/readme-components-github">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat787&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&card_width=445" />
   </a>
