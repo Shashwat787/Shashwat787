@@ -35,6 +35,10 @@ I’m a B.Tech student in Computer Science Engineering, aspiring to be a Full-St
 
 ---
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat787)](https://github.com/anuraghazra/readme-components)
+
+---
+
 <h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" alt="Animated GIF" width="25"/> My Contributions</h2>
 
 <p align="center">
