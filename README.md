@@ -35,9 +35,8 @@ I’m a B.Tech student in Computer Science Engineering, aspiring to be a Full-St
 
 ---
 
-![Shashwat Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat787&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat787&layout=compact&theme=radical&card_width=468)](https://github.com/MrKrishnaAgarwal/readme-components-github)
-
+![Shashwat Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat787&show_icons=true&theme=radical&t=1234567890)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat787&layout=compact&theme=radical&card_width=468&t=1234567890)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 ---
 
