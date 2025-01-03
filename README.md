@@ -15,7 +15,16 @@
 ---
 
 <h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.webp" alt="Animated GIF" width="25"/> About Me</h2>
-I’m a B.Tech student in Computer Science Engineering, aspiring to be a Full-Stack Developer. I love learning new technologies and currently exploring frameworks like React and Node.js. Passionate about collaboration and open-source contributions, I’m eager to connect and grow within the tech community. Feel free to check out my projects and reach out!
+I’m a B.Tech student in Computer Science Engineering, aspiring to be a Full-Stack Developer. I love learning new technologies and currently exploring frameworks like React and Node.js. Passionate about collaboration and open-source contributions, I’m eager to connect and grow within the tech community. 
+
+<div align="center">
+  <br><br>
+  <a href="https://shashwatprakashportfolio.netlify.app/">
+    <img src="https://cdn-icons-png.freepik.com/256/6471/6471842.png" alt="Portfolio Icon" width="50" height="50">
+  </a>
+  <br>
+  Check out my portfolio here!
+</div>
 
 ---
 
